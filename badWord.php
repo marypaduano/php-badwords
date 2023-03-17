@@ -25,3 +25,10 @@ $words2_length=strlen($words2_trim);
 <p>La lunghezza del paragrafo censurato è di caratteri n: <?php echo $words2_length ?></p>
 
 
+<button>
+<a href="http://localhost/php-badwords/index.php?" style="text-decoration: none; color:currentcolor; padding: 20px;">
+    Torna al Form
+</a>
+</button> 
+
+

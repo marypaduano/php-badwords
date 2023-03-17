@@ -28,9 +28,9 @@
     <div>
         <form action="badWord.php" method="GET" class="container">
             <label for="words">Inserisci il tuo testo:</label>
-            <textarea id="words" name="words" rows="3" cols="50">
+            <textarea id="words" name="words" rows="3" cols="50" >
             </textarea>
-            <input type="text" name="badword" placeholder="inserisci parola da censurare">
+            <input type="text" name="badword" placeholder="inserisci parola da censurare" style="padding: 10px">
             <button type="submit">Invia</button>                   
         </form>
     </div>
